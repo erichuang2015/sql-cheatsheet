@@ -205,3 +205,13 @@ Timestamp
    `column3` `datatype`, <br />
    `column4` `datatype`, <br />
    `);`
+
+### Misc
+1. CREATE TEMPORARY TABLE
+2. SERIAL DATA TYPES
+a. smallserial
+b. serial
+c. bigserial
+3. Decimal Numbers
+a. fixed-point  is numeric(precision, scale)
+ex five digits total (precision) and two digitis max to the right of the decimal (scale) such as 1.45, 121.50 ==> numeric(5,2)

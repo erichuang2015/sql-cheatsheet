@@ -3,6 +3,19 @@
 # Data Types
 Characters
 1. char(n)  will pad spaces, legacy
+2. varchar(n)  variable length where n is max length
+3. text   variable-length of unlimited
+
+Numbers
+1. Integers   whole numbers, positive and negative
+1a. smallint   -32768 to 32767
+1b. integer     02147483648 to 2147483647
+1c. bigint      big number
+
+2. Fixed-point and floating-point  fractions
+
+Timestamp
+
 
 # Table of Contents 
 1. [ Finding Data Queries. ](#find)
